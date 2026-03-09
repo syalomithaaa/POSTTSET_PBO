@@ -89,8 +89,8 @@ Program menjalankan proses sesuai pilihan user
 
 ### Contoh Input Pasien
 
-Nama Pasien : Andi  
-Umur : 25  
+Nama Pasien : Mita
+Umur : 19  
 Keluhan : Demam
 
 Output:
@@ -150,5 +150,5 @@ Program ini mampu:
 
 ## 👨‍💻 Author
 
-Nama : (Isi Nama Kamu)  
-NIM  : (Isi NIM Kamu)
+Nama : Syalomitha Novindriani Depe 
+NIM  : 2409106098
